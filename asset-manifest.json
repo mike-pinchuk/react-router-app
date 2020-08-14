@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.io/react-router-app/static/css/main.88b4d9e2.chunk.css",
-    "main.js": "/github.io/react-router-app/static/js/main.bced705e.chunk.js",
-    "main.js.map": "/github.io/react-router-app/static/js/main.bced705e.chunk.js.map",
-    "runtime-main.js": "/github.io/react-router-app/static/js/runtime-main.6f935506.js",
-    "runtime-main.js.map": "/github.io/react-router-app/static/js/runtime-main.6f935506.js.map",
-    "static/js/2.2860f24e.chunk.js": "/github.io/react-router-app/static/js/2.2860f24e.chunk.js",
-    "static/js/2.2860f24e.chunk.js.map": "/github.io/react-router-app/static/js/2.2860f24e.chunk.js.map",
-    "index.html": "/github.io/react-router-app/index.html",
-    "precache-manifest.7248a7b9549c00061d861da1b684c267.js": "/github.io/react-router-app/precache-manifest.7248a7b9549c00061d861da1b684c267.js",
-    "service-worker.js": "/github.io/react-router-app/service-worker.js",
-    "static/css/main.88b4d9e2.chunk.css.map": "/github.io/react-router-app/static/css/main.88b4d9e2.chunk.css.map",
-    "static/js/2.2860f24e.chunk.js.LICENSE.txt": "/github.io/react-router-app/static/js/2.2860f24e.chunk.js.LICENSE.txt"
+    "main.css": "/react-router-app/static/css/main.88b4d9e2.chunk.css",
+    "main.js": "/react-router-app/static/js/main.bced705e.chunk.js",
+    "main.js.map": "/react-router-app/static/js/main.bced705e.chunk.js.map",
+    "runtime-main.js": "/react-router-app/static/js/runtime-main.64ddaf04.js",
+    "runtime-main.js.map": "/react-router-app/static/js/runtime-main.64ddaf04.js.map",
+    "static/js/2.2860f24e.chunk.js": "/react-router-app/static/js/2.2860f24e.chunk.js",
+    "static/js/2.2860f24e.chunk.js.map": "/react-router-app/static/js/2.2860f24e.chunk.js.map",
+    "index.html": "/react-router-app/index.html",
+    "precache-manifest.be04f2ca5e139ad0936b2109940c9376.js": "/react-router-app/precache-manifest.be04f2ca5e139ad0936b2109940c9376.js",
+    "service-worker.js": "/react-router-app/service-worker.js",
+    "static/css/main.88b4d9e2.chunk.css.map": "/react-router-app/static/css/main.88b4d9e2.chunk.css.map",
+    "static/js/2.2860f24e.chunk.js.LICENSE.txt": "/react-router-app/static/js/2.2860f24e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f935506.js",
+    "static/js/runtime-main.64ddaf04.js",
     "static/js/2.2860f24e.chunk.js",
     "static/css/main.88b4d9e2.chunk.css",
     "static/js/main.bced705e.chunk.js"
