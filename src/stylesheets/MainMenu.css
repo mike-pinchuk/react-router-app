@@ -1,0 +1,41 @@
+.main-menu {
+    display: flex;
+    flex-direction: column;
+    background-color: slategray;
+    color: ghostwhite;
+    height: 100%;
+    width: 20%;
+    /* min-width: 20%; */
+}
+
+.main-menu a {
+    color: ghostwhite;
+    text-align: center;
+    padding: 1em;
+    font-size: 1em;
+}
+
+
+/* .about {
+    padding: 0;
+} */
+
+.about-menu {
+    width: 100%;
+    list-style-type: none;
+    display: flex;
+    background-color: slategray;
+}
+
+.about-menu li {
+    flex-grow: 1;
+}
+
+.about-menu li a {
+    display: block;
+    width: calc(100% - 1em);
+    text-align: center;
+    text-decoration: none;
+    color: ghostwhite;
+    padding: .5em;
+}
